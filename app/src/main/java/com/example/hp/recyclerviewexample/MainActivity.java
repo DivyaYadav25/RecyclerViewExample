@@ -8,6 +8,9 @@ import android.support.v7.widget.RecyclerView;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * This classs is maine activty of this example.
+ */
 public class MainActivity extends AppCompatActivity {
     RecyclerView recyclerView;
     ProductAdapter productAdapter;
