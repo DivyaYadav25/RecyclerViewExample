@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="top">Top intraday trading ideas for afternoon trade for Wednesday 12 December 2018</string>
+    <string name="date">12 December 2018</string>
+</resources>
